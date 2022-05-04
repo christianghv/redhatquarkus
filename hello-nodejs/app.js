@@ -1,4 +1,1 @@
-console.log("Hello World!\n"); 
-
-
-dasas
+console.log("Hello World!\n");
